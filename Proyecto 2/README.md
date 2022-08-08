@@ -14,9 +14,8 @@
 ❖ Merlo, Emmanuel.<br />
 ❖ Romero, Gisela de Lourdes.<br />
 
-## **Carpeta Proyecto 1 - Datasheeth ESP - Completa**
 
-## **Carpeta Proyecto 2 Microcontroladores de 8 bits - En desarrollo**
+## **Proyecto 2 Microcontroladores de 8 bits - En desarrollo**
 
 1) Crear un usuario en la página de Microchip: https://www.microchip.com/<br />
 

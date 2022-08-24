@@ -1,7 +1,7 @@
 
 ## **Carpetas con los puntos del ejercicio 1 resueltos**
 
-# **Carpeta: SimulacionEjercicios**
+### **Carpeta: SimulacionEjercicios**
   <br />		
 
 Contiene el archivo del Proyecto en Proteus para la simulación de los puntos <br />

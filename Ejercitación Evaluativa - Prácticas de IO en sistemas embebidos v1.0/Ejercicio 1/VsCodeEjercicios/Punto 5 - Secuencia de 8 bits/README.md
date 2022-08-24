@@ -1,8 +1,7 @@
 
-## 5. Ingresar una secuencia de 8 bits por terminal , que activaran los leds 
-## correspondientes por el puerto D. 
+## 5. Ingresar una secuencia de 8 bits por terminal , que activaran los leds correspondientes por el puerto D. 
 
-# Desarrollo:
+### Desarrollo:
 	Utilizando VS Code con la extensión de plataformIO se desarrolo el codigo<br />
 	para que el usuario ingrese una secuencia de 8 bits por terminal virtual,<br />
 	Dicha secuencia enciende una led si el bit es 1, en correlacion a los bits ingresados.<br />
@@ -10,7 +9,7 @@ Nota: el ejercicio solicta que se utilice el puerto D(de 8 pines), pero los dos 
 están siendo utilizados para la terminal virtual. Por lo tanto, del puerto D se utilizan los pines<br />
 desde el 2 al 7, y los pines 8 y 9 del puerto B, para un mejor manejo en el desarrolo del codigo.<br />
 	
-# Simulación:	
+### Simulación:	
 	En Proteus, a través de La terminal virtual se solcita al usuario que ingrese la <br />
 	secuencia de 8 bits, y se le advierte que de no ingresar datos validos(0 y 1) la secuencia<br />
 	no será válida.<br />

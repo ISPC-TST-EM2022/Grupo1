@@ -1,5 +1,5 @@
 ![alt text](https://github.com/EMTSTISPC/Grupo1/blob/main/logo.PNG)
-## Grupo1
+## Grupo 1
 ### **Repositorio para las practicas anuales de la materia Electronica Microcontrolada**
 
 ### **Docentes: Ing. Jorge E. Morales, Téc. Gonzalo Vera.**
@@ -22,7 +22,8 @@
 
 ## **Carpeta Ejercitación Evaluativa -Prácticas de IO -  Shields v1.0**
 
-Ejercicio #1 
+Ejercicio #1
+
 a) Explique el funcionamiento del protocolo I2C?<br /> 
 b) Que son los sensores resistivos? Como se conectan a través de un divisor 
 resistivo? Que es el acondicionamiento de señales?<br /> 
@@ -36,6 +37,7 @@ librerías de uso + repositorio (implementación, ejemplos, etc)} es una shield?
 f) Explique con sus propias palabras que es una shield.<br /> 
 
 Ejercicio #2 
+
 a) Que es el protocolo SPI y cuales son sus características.<br /> 
 b) Cuales son las ventajas y desventajas del protocolo SPI 
 c) Como probaría si una comunicación SPI funciona correctamente en su 

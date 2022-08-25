@@ -5,18 +5,12 @@
 /* Variables */
 
 bool flag = false; // Bandera para indicar la lectura de la secuencia de bits desde el puerto serial
-
-int num1;   // Variable Auxiliar para recorrer los Pines
-String cod; // Varaible para almacenar la secuencia de bits ingresada
-
+char buffer[9];    // Variable para almacenar secuencia de 8 bits
 /* SETUP */
 void setup()
 {
-    Serial.begin(9600);          // Inicializacion del puerto serial
-    for (int i = 2; i <= 9; i++) // Incializo cada pin como Salida
-    {
-        pinMode(i, OUTPUT);
-    }
+    Serial.begin(9600); // Inicializacion del puerto serial
+
     Serial.println("Programa para leer una secuencia de 8 bits");
     Serial.println("que enciende un led si el bit es 1");
     Serial.println("Nota: si los valores ingresados son distintos a cero(0) y (1)");
@@ -33,21 +27,17 @@ void loop()
         {
             // Espera a que el usuario ingrese los datos
         }
-        cod = Serial.readString(); // Leo la secuencia de bits como cadena de caracteres
-        Serial.println("");
-
-        flag = true; // Cambio bandera para no repetir mensaje
+        byte dato = Serial.readBytes(buffer, 9); // Leo secuencia de bits
+        flag = true;
     }
-    num1 = 2;                   // Pin incial
-    for (int i = 0; i < 8; i++) // Recorro cadena caracter a caracter
+    Serial.end(); // Detengo el puerto serie par usar pin 0 y 1 como salida
+
+    for (int i = 0; i < 9; i++)
     {
-        if ((cod[i] == '1') or (cod[i] == '0')) // Chequeo que sean bits
+        pinMode(i, OUTPUT);   // Declaro cada pin como salida
+        if (buffer[i] == '1') // Si el bit en la posicion es 1, se enciende el led
         {
-            if (cod[i] == '1') // Si el bit es 1 enciendo led
-            {
-                analogWrite(num1, 255); // Enciendo led
-            }
-            num1++; // paso al siguiente pin
+            digitalWrite(i, HIGH);
         }
     }
 }

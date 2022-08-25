@@ -5,7 +5,7 @@
 /* Variables */
 
 bool flag = false; // Bandera para indicar la lectura del brillo solicitado desde el puerto serial
-int pin = 9;       // Se elige el pin 9 del puerto B para la simulación en proteus
+int pin = 3;       // Se elige el pin 3 del puerto D para la simulación en proteus
 int brillo;        // Variable donde se alacena el valor ingresado
 
 /* SETUP */

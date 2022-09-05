@@ -9,9 +9,9 @@
 
 ❖ Birge, Adolfo Federico.<br />
 ❖ Carunchio, Carlos Javier.<br />
+❖ Carrizo, Esteban Darío. <br/>
 ❖ Ferreyra, María Luciana.<br />
 ❖ Gutiérrez, Emma Vilma.<br />
-❖ Merlo, Emmanuel.<br />
 ❖ Romero, Gisela de Lourdes.<br />
 
 ## **Carpeta Proyecto 1 - Datasheeth ESP - Completa**

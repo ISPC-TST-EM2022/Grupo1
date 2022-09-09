@@ -14,15 +14,4 @@
 ❖ Gutiérrez, Emma Vilma.<br />
 ❖ Romero, Gisela de Lourdes.<br />
 
-## **Carpeta Periodo 1 y 2 **
-Contiene actividades y proyectos:
-Datasheeth ESP
-Microcontroladores de 8 bits
-Prácticas de I/O en sistemas embebidos v1.0 
-Ejercitación Evaluativa -Prácticas de IO
-
-## **Carpeta Desarrolo de Proyecto - Auto 4WD **
-
-Semana 1:(actualmente)
-Semana 2:
-Semana 3:
+## **Carpeta Proyecto 

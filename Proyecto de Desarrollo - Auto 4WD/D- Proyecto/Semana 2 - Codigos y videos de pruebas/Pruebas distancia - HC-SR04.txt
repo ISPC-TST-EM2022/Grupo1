@@ -1,0 +1,23 @@
+#include <NewPing.h>
+
+//aqui hay que definir Trig y Echo
+#define trigPin 18
+#define echoPin 19
+
+//Definir la distancia máxima en centímetros en 400-500
+#define MAX_DISTANCE 400
+
+//Crear objeto llamado Sonar.
+NewPing Sonar(trigPin, echoPin, MAX_DISTANCE);
+
+void setup() {
+  Serial.begin(9600);
+}
+
+void loop() {
+  // Un delay de 50 ms entre pings (aprox 20 pings / seg). 30ms es el retardo minimo entre pings:
+  delay(500);  
+  // crear variable y pasarle en valor de Sonar.ping_cm
+  int distancia = Sonar.ping_cm();
+  // Enviar ping, obtener la distancia en cm e imprimir el resultado
+  Serial.println("Distancia = " + String(distancia)+ " CM");

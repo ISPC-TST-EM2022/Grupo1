@@ -1,0 +1,100 @@
+#include <Arduino.h>
+
+#define LED 2
+
+
+// Motor A
+int motor1Pin1 = 27;
+int motor1Pin2 = 26;
+int enable1Pin = 14;
+// Motor B
+int motor2Pin1 = 4;
+int motor2Pin2 = 2;
+int enable2Pin = 15;
+
+// Configurar las propiedades PWM (Muy importante)
+const int freq = 30000;
+const int pwmChannel = 0;
+const int resolution = 8;
+int dutyCycle = 255;
+
+void setup()
+{
+  // sets the pins as outputs:
+  pinMode(motor1Pin1, OUTPUT);
+  pinMode(motor1Pin2, OUTPUT);
+  pinMode(enable1Pin, OUTPUT);
+  pinMode(motor2Pin1, OUTPUT);
+  pinMode(motor2Pin2, OUTPUT);
+  pinMode(enable2Pin, OUTPUT);
+  pinMode(LED, OUTPUT);
+
+  // configurar funcionalidades LED PWM
+  ledcSetup(pwmChannel, freq, resolution);
+
+  // adjunte el canal al GPIO para ser controlado
+  ledcAttachPin(enable1Pin, pwmChannel);
+  ledcAttachPin(enable2Pin, pwmChannel);
+
+  Serial.begin(9600);
+
+  // testing
+  Serial.print("Testeando motores...");
+  ledcWrite(pwmChannel, dutyCycle);
+}
+
+void loop()
+{
+
+  // Mueva el motor de CC hacia adelante a la velocidad máxima
+  Serial.println("Moviendo hacia adelante");
+  digitalWrite(motor1Pin1, HIGH);
+  digitalWrite(motor1Pin2, LOW);
+  digitalWrite(motor2Pin1, HIGH);
+  digitalWrite(motor2Pin2, LOW);
+  digitalWrite(LED, HIGH);
+  delay(2000);
+
+  // Detengar los motores 1 segundo
+  Serial.println("Motores detenidos");
+  digitalWrite(motor1Pin1, LOW);
+  digitalWrite(motor1Pin2, LOW);
+  digitalWrite(motor2Pin1, LOW);
+  digitalWrite(motor2Pin2, LOW);
+  digitalWrite(LED, LOW);
+  delay(1000);
+
+  // Mueva el motor de CC hacia atrás a la velocidad máxima
+  Serial.println("Moviendo hacia atras");
+  digitalWrite(motor1Pin1, LOW);
+  digitalWrite(motor1Pin2, HIGH);
+  digitalWrite(motor2Pin1, LOW);
+  digitalWrite(motor2Pin2, HIGH);
+  digitalWrite(LED, HIGH);
+  delay(2000);
+
+  // Detengar los motores 1 segundo
+  Serial.println("Motores detenidos");
+  digitalWrite(motor1Pin1, LOW);
+  digitalWrite(motor1Pin2, LOW);
+  digitalWrite(motor2Pin1, LOW);
+  digitalWrite(motor2Pin2, LOW);
+  digitalWrite(LED, LOW);
+  delay(1000);
+
+  // Mover motores hacia adelante con velocidad en aumento (anda)
+  digitalWrite(motor1Pin1, HIGH);
+  digitalWrite(motor1Pin2, LOW);
+  digitalWrite(motor2Pin1, HIGH);
+  digitalWrite(motor2Pin2, LOW);
+  dutyCycle = 200;
+  while (dutyCycle <= 255)
+  {
+    ledcWrite(pwmChannel, dutyCycle);
+    Serial.print("Avanzar con ciclo de trabajo");
+    Serial.println(dutyCycle);
+    dutyCycle = dutyCycle + 5;
+    delay(500);
+  }
+  dutyCycle = 255;
+}

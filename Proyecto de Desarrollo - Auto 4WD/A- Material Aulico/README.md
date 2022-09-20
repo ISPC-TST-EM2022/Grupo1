@@ -1,9 +1,9 @@
-El objeto de este lugar a es contener accesos  a distintos tipos de materiales
+**El objeto de este lugar a es contener accesos  a distintos tipos de materiales
 para uso en el proyecto.<br />
 Es una carpeta donde estaran alojado los documentos que el grupo
 usara para hacer las exposiciones explicando su desarrollo.<br />
 <br />
-Introducción <br />
+**Introducción <br />
 Empezar a delimitar un proyecto nos obliga a visualizar el objetivo que queremos 
 alcanzar. En este proyecto debe implementarse una serie de pasos que sirven de
 sustento para agilidad y comodidad del mismo, que nos guiaran en el mismo:
@@ -19,11 +19,8 @@ del proyecto.<br />
 9.- Informe del proyecto, conversión a artículo científico y presentación final de
 informe en formato de artículo científico (paper).<br />
 <br />
- 
- 
-Telecomunicaciones<br />
-Grupo 1<br />
-Reunión del equipo de trabajo <br />
+
+**Reunión del equipo de trabajo <br />
 El proyecto se desarrolla en grupo. Trabajando en proyectos de grupo resulta vital 
 definir normas de comunicación, colaboración y participación, que nos servirán de 
 orientación para el comportamiento general de cada uno de los miembros del equipo 

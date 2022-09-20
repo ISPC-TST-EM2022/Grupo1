@@ -1,12 +1,11 @@
-**El objeto de este lugar a es contener accesos  a distintos tipos de materiales
-para uso en el proyecto.<br />
+## **El objeto de este lugar a es contener accesos  a distintos tipos de materiales para uso en el proyecto.**<br />
 Es una carpeta donde estaran alojado los documentos que el grupo
 usara para hacer las exposiciones explicando su desarrollo.<br />
 <br />
-**Introducción <br />
+## **Introducción** <br />
 Empezar a delimitar un proyecto nos obliga a visualizar el objetivo que queremos 
 alcanzar. En este proyecto debe implementarse una serie de pasos que sirven de
-sustento para agilidad y comodidad del mismo, que nos guiaran en el mismo:
+sustento para agilidad y comodidad del mismo, que nos guiaran en el mismo:<br />
 1.- Reunión del equipo de trabajo.<br />
 2.- Planteamiento de la problemática a solucionar.<br />
 3.- Presentación de un diagrama de bloques de la solución propuesta.<br />
@@ -20,7 +19,7 @@ del proyecto.<br />
 informe en formato de artículo científico (paper).<br />
 <br />
 
-**Reunión del equipo de trabajo <br />
+## **Reunión del equipo de trabajo**<br />
 El proyecto se desarrolla en grupo. Trabajando en proyectos de grupo resulta vital 
 definir normas de comunicación, colaboración y participación, que nos servirán de 
 orientación para el comportamiento general de cada uno de los miembros del equipo 
@@ -31,6 +30,7 @@ a ello en pos de establecer una metodología ágil para la implementación, sien
 primer escalón tendiente a determinar el éxito o fracaso del proyecto y su evolución 
 en el tiempo.<br />
 <br />
+## **Materiales utilizados en el Tango6**<br />
 ![image](https://user-images.githubusercontent.com/98425890/191353777-305b2984-25f4-4d0f-bc57-07ecf8fd0f68.png)
 <br />
 <br />

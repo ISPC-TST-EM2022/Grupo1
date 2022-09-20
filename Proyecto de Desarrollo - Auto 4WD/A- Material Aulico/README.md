@@ -45,6 +45,9 @@ en el tiempo.<br />
 
 <br />
 <br />
+
+## **Diagrama de Gantt**<br />
+
 ![image](https://user-images.githubusercontent.com/98425890/191359823-86e2bb9a-801f-4d11-9208-b1d3eb796669.png)
 
 

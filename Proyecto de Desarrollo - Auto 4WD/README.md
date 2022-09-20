@@ -21,11 +21,11 @@
 En el presente proyecto, se despliega la implementación práctica de los distintos 
 campos y conocimientos adquiridos durante el desarrollo de la materia Electrónica
 Microcontrolada, y de este trabajo.<br />
-En nuestro proyecto buscamos lograr implementar un sistema basado en IoT. Se 
+**En nuestro proyecto buscamos lograr implementar un sistema basado en IoT. Se 
 desea crear un prototipo vehículo auto a escala de cuatro ruedas implementado con 
 un módulo ESP32, controlado por mando a distancia (Wifi o Bluetooth), con sensor 
 de obstáculos y un propósito específico, en este caso con un sensor de temperatura 
-y humedad.<br />
+y humedad.**<br />
 La arquitectura del dispositivo IoT a desarrollar e implementar, tiene que cumplir 
 ciertos requerimientos para que esta tecnología sea viable. Debe permitir que la 
 tecnología sea distribuida, donde los objetos puedan interactuar entre ellos, 

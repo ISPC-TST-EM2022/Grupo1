@@ -16,8 +16,8 @@
 
 ## **Carpeta Proyecto 
 
-##**IMPLEMENTACION DE UN PROYECTO ELECTRONICO CONOCIDO<br />
-##**Descripción <br />
+## **IMPLEMENTACION DE UN PROYECTO ELECTRONICO CONOCIDO**<br />
+## **Descripción**<br />
 En el presente proyecto, se despliega la implementación práctica de los distintos 
 campos y conocimientos adquiridos durante el desarrollo de la materia Electrónica
 Microcontrolada, y de este trabajo.<br />

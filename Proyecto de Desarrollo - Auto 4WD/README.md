@@ -16,8 +16,8 @@
 
 ## **Carpeta Proyecto 
 
-IMPLEMENTACION DE UN PROYECTO ELECTRONICO CONOCIDO 
-Descripción 
+IMPLEMENTACION DE UN PROYECTO ELECTRONICO CONOCIDO<br />
+Descripción <br />
 En el presente proyecto, se despliega la implementación práctica de los distintos 
 campos y conocimientos adquiridos durante el desarrollo de la materia Electrónica
 Microcontrolada, y de este trabajo.<br />
@@ -33,5 +33,8 @@ escalable, eficiente y segura. Aquí, es donde el marco de trabajo se propone y
 sustenta en un equipo de desarrollo no verticalista, que facilita la obtención de 
 resultados adaptables, flexibles y que permiten la evolución a futuro frente a 
 diferentes innovaciones y / o aplicaciones que pudiesen surgir en un futuro, luego 
-de la implementación ya funcional.
+de la implementación ya funcional.<br />
+<br />
+![image](https://user-images.githubusercontent.com/98425890/191352707-03478250-ab55-4da9-be55-7ad7f31fc402.png)
+
 

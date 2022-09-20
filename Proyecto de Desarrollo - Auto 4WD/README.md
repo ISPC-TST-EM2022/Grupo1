@@ -35,6 +35,9 @@ resultados adaptables, flexibles y que permiten la evolución a futuro frente a
 diferentes innovaciones y / o aplicaciones que pudiesen surgir en un futuro, luego 
 de la implementación ya funcional.<br />
 <br />
+![image](https://user-images.githubusercontent.com/98425890/191354433-351b59a1-2241-4eee-aec2-392d9707e6e3.png)
+<br />
+<br />
 ![image](https://user-images.githubusercontent.com/98425890/191352707-03478250-ab55-4da9-be55-7ad7f31fc402.png)
 
 

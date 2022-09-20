@@ -39,5 +39,10 @@ de la implementación ya funcional.<br />
 <br />
 <br />
 ![image](https://user-images.githubusercontent.com/98425890/191352707-03478250-ab55-4da9-be55-7ad7f31fc402.png)
+<br />
+<br />
+## **Diagrama de Gantt**
+![image](https://user-images.githubusercontent.com/98425890/191359634-e2a99e53-a424-4ad3-bd7e-6fe30a9bd5dd.png)
+
 
 

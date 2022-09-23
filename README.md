@@ -21,9 +21,8 @@ Microcontroladores de 8 bits
 Prácticas de I/O en sistemas embebidos v1.0 
 Ejercitación Evaluativa -Prácticas de IO
 
-##**Carpeta Desarrolo de Proyecto - Auto 4WD**
-https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo1/tree/main/Proyecto%20de%20Desarrollo%20-%20Auto%204WD
+### **Desarrolo de Proyecto - Auto 4WD**
+- 📁: __**Carpeta Desarrolo de Proyecto - Auto 4WD**__:
+    + [Desarrolo de Proyecto - Auto 4WD](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo1/tree/main/Proyecto%20de%20Desarrollo%20-%20Auto%204WD)
 
-Semana 1:(actualmente)
-Semana 2:
-Semana 3:
+

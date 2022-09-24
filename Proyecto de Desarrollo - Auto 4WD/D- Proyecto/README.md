@@ -1,4 +1,5 @@
-## **Explicando funcionalidad**
+## **Explicando funcionalidad** 👇🏼👇🏼👇🏼
+
 Como se ve en el video nuestro TANGO06, auto robot de 4 ruedas y 4 motores con tracción en todos, alimentados estos últimos con batería recargable de 12v(no se ven, están entre chasis), y controlados por un drive L298N(tampoco se me muy bien aquí), implementado el proyecto con una placa de desarrollo ESP32, en este caso NodeMCU
 de 30 pines, que controla propiamente los 4 motores a  través del puente L298N, un servo motor SG90 con posición fija en centro(90°) haciendo ángulos de + - 45° según hacia donde gire el robot(izquierda o derecha) acompañando el movimiento, el mismo tiene montada una estructura para sostener un sensor de ultrasonido, en este caso el modelo HC-SR04, que cumple la función de detectar y hacer evitar obstáculos al robot.<br />
 Para esta demostración, como el auto es controlado manualmente, la actitud evasiva es frenarse al encontrar un objeto a menos de 30 cm, detenerse, retroceder medio segundo de tiempo, y esperar detenido el próximo comando de quien lo opera. Para distinguir éste accionar (el sensor detecta un objeto) se hace encender el led azul integrado en la ESP32.<br />

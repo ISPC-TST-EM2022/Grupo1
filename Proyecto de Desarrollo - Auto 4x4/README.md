@@ -4,7 +4,6 @@
 
 ### **Docentes: Ing. Jorge E. Morales, Téc. Gonzalo Vera.**
 
-d
 ### **Integrantes**
 
 ❖ Birge, Adolfo Federico.<br />

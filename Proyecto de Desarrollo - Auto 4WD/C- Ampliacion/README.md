@@ -1,5 +1,5 @@
 
-## **Material que sera útil para futuras modificaciones o actualizaciones del proyecto**
+## **Material que sera útil para futuras modificacione o actualizaciones del proyecto**
 <br />
 
 - 📁: __Mejoras y  Actualizaciones__:

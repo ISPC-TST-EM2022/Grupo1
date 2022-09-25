@@ -10,7 +10,7 @@
 ❖ Birge, Adolfo Federico.<br />
 ❖ Carunchio, Carlos Javier.<br />
 ❖ Carrizo, Esteban Darío. <br/>
-❖ Ferreyra, María Luciana.<br />
+❖ Ferreyra, María.<br />
 ❖ Gutiérrez, Emma Vilma.<br />
 ❖ Romero, Gisela de Lourdes.<br />
 

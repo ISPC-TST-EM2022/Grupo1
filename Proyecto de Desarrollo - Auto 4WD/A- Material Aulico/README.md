@@ -1,4 +1,4 @@
-## **El objeto de este lugar a es contener accesos  a distintos tipos de materiales para uso en el proyecto.**<br />
+## **El objeto de este lugar  es contener accesos  a distintos tipos de materiales para uso en el proyecto.**<br />
 Es una carpeta donde estaran alojado los documentos que el grupo
 usara para hacer las exposiciones explicando su desarrollo.<br />
 <br />

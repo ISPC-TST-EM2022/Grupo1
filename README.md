@@ -14,7 +14,7 @@
 ❖ Gutiérrez, Emma Vilma.<br />
 ❖ Romero, Gisela de Lourdes.<br />
 
-##**Carpeta Periodo 1 y 2**
+###**Carpeta Periodo 1 y 2**
 Contiene actividades y proyectos:
 Datasheeth ESP
 Microcontroladores de 8 bits
@@ -30,4 +30,5 @@ Ejercitación Evaluativa -Prácticas de IO
     
     <br />
 
-![Tango 6](https://user-images.githubusercontent.com/110072008/192125016-f4af6f7b-318b-4425-9b8e-10af6cdccfbd.jpg)
+### **Desarrolo de Proyecto Imposible - DIAC**
+

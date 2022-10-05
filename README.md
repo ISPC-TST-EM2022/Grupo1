@@ -14,7 +14,7 @@
 ❖ Gutiérrez, Emma Vilma.<br />
 ❖ Romero, Gisela de Lourdes.<br />
 
-###**Carpeta Periodo 1 y 2**
+### **Carpeta Periodo 1 y 2**
 Contiene actividades y proyectos:
 Datasheeth ESP
 Microcontroladores de 8 bits
@@ -29,6 +29,5 @@ Ejercitación Evaluativa -Prácticas de IO
     + [Proyecto Final - Auto 4WD](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo1/blob/main/Proyecto%20de%20Desarrollo%20-%20Auto%204WD/D-%20Proyecto/Semana%203%20-%20Presentacion%20Final/Proyecto%20Tango%206%20Grupo%201.pdf)
     
     <br />
-
 ### **Desarrolo de Proyecto Imposible - DIAC**
 

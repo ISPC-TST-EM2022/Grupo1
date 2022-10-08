@@ -1,4 +1,4 @@
-Estas son algunas de las páginas webs sobre las cuales hemos vamos rescatando información o usando de guía ante dudas o consultas que nos van surgiendo en el armado del Proyecto imposible -DIAC
+Estas son algunas de las páginas webs sobre las cuales rescatamos información o usando de guía ante dudas o consultas que nos van surgiendo en el armado del Proyecto imposible -DIAC
 
 ¿Qué es un Sensor PIR? (electronica-basica.com)
 

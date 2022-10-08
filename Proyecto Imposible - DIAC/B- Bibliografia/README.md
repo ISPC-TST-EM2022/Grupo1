@@ -13,3 +13,5 @@ QFCE, Sensores piroeléctricos para el IIoT (diarioelectronicohoy.com)
 Sensores de proximidad y sus aplicaciones – Electrónica (electronica2000.com)
 
 Características de los sensores de proximidad inductivos - (keyence.com.mx/)
+
+Sensores Capacitivos - (weg.net)

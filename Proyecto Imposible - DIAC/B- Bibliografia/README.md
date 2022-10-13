@@ -19,3 +19,5 @@ Sensores Capacitivos - (weg.net)
 HW 482 - Módulo de relé SPDT para aplicaciones de Arduino, microcontroladores.
 
 HW482 pdf, HW482 Descripción, Hoja de datos de HW482, vista HW482 ___ ALLDATASHEET _
+
+https://www.wellpcb.com/buzzer-datasheet.html

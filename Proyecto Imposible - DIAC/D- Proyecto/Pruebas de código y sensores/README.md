@@ -12,3 +12,7 @@ El código está implementado en MicroPython, utilizando VSCode con la extensió
 la placa previamente se cargó con la última versión del firmware de Micropython.
 
 ## **Video demostrativo de lo descripto incluido**
+
+
+https://user-images.githubusercontent.com/109010330/195707575-e06d6121-44d4-486e-abd5-f7b727d61655.mp4
+

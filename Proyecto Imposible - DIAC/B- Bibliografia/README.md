@@ -15,3 +15,5 @@ Sensores de proximidad y sus aplicaciones – Electrónica (electronica2000.com)
 Características de los sensores de proximidad inductivos - (keyence.com.mx/)
 
 Sensores Capacitivos - (weg.net)
+HW 482 - Módulo de relé SPDT para aplicaciones de Arduino, microcontroladores.
+HW482 pdf, HW482 Descripción, Hoja de datos de HW482, vista HW482 ___ ALLDATASHEET _

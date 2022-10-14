@@ -19,3 +19,5 @@ la placa previamente se cargó con la última versión del firmware de Micropyth
 
 https://user-images.githubusercontent.com/109010330/195707575-e06d6121-44d4-486e-abd5-f7b727d61655.mp4
 
+https://user-images.githubusercontent.com/109010330/195944394-d4b3fcf5-c454-4825-8064-86d3c12b554d.mp4
+

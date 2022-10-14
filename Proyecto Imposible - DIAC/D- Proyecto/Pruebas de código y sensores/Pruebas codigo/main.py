@@ -1,7 +1,8 @@
 from machine import Pin
 import time
 
-tiempo = 1000  # tiempo para sincronizar la adevertencia de presencia
+pinRele = pinPir = Pin(22, Pin.OUT, Pin.PULL_UP)  # Pin de salida para el rele
+pinRele.off()
 p2 = Pin(2, Pin.OUT)
 pbuz = Pin(23, Pin.OUT, Pin.PULL_UP)  # buzzer en pin 23 como salida
 pbuz.off()  # buzzer apagado
@@ -29,19 +30,17 @@ def Presencia():
 
 
 def Alarma():  # Alarma sonora con bocina
-    pbuz.on()
+    pinRele.on()
+    time.sleep_ms(600)
+    pinRele.off()
+    time.sleep_ms(600)
 
 
-eventos = 0
 while 1:  # será con un boton de encendido y apagado
     while Presencia():  # si hay presencia
         Advertencia()  # se activa la advertencia
+      
     val = pinMag.value()
     if val == 0:
         Alarma()
-        p2.on()
-        print("Magnetico abierto")
-    else:
-        print("Magnetico cerrado")
-        pbuz.off()
-        p2.off()
+

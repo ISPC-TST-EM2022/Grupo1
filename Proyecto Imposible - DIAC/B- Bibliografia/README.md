@@ -21,3 +21,7 @@ HW 482 - Módulo de relé SPDT para aplicaciones de Arduino, microcontroladores.
 HW482 pdf, HW482 Descripción, Hoja de datos de HW482, vista HW482 ___ ALLDATASHEET _
 
 https://www.wellpcb.com/buzzer-datasheet.html
+
+https://tienda.bricogeek.com/baterias-lipo/1103-bateria-lipo-ion-litio-4400mah-37v.html
+
+https://www.alldatasheet.com/view.jsp?Searchword=Tp4065&gclid=CjwKCAjwkaSaBhA4EiwALBgQaPENHlT4FqO_gUFcytzQMoivt7-xPzfoQsh277vtLU0IxTHc0AM9BxoCmTYQAvD_BwE

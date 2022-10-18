@@ -30,4 +30,6 @@ Ejercitación Evaluativa -Prácticas de IO
     
     <br />
 ### **Desarrolo de Proyecto Imposible - DIAC**
+- 📁: __**Carpeta Desarrolo de Proyecto Imposible - DIAC**__:
+    + [Proyecto Imposible - DIAC] (https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo1/tree/main/Proyecto%20Imposible%20-%20DIAC)
 

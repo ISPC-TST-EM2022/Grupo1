@@ -1,1 +1,3 @@
-Soy un readme vacio aún
+## **Explicando funcionalidad** 👇🏼👇🏼
+
+RPOXIMAMENTE

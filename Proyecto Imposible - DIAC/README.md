@@ -1,6 +1,6 @@
 ![alt text](https://github.com/EMTSTISPC/Grupo1/blob/main/logo.PNG)
 ## Grupo 1 ⚡
-### **Repositorio para las practicas anuales de la materia Electronica Microcontrolada**
+### **Repositorio para las prácticas anuales de la materia Electrónica Microcontrolada**
 
 ### **Docentes: Ing. Jorge E. Morales, Téc. Gonzalo Vera.**
 

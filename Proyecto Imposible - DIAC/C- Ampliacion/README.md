@@ -1,3 +1,3 @@
 ## **Material de Ampliación** 👇🏼👇🏼
 
-RPOXIMAMENTE
+PROXIMAMENTE

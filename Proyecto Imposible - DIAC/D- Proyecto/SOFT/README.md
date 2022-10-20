@@ -37,7 +37,7 @@ tercera detección directamente se activa la alarma sonora simulada con la bocin
 falsa alarma el usuario puede desactivarla manualmente. Para este propósito lo ideal es 
 utilizar notificaciones push, pero la versión free de Blynk las restringe.
 La utilización de la plataforma es muy sencilla, se descarga la App móvil al teléfono, y también se puede utilizar la 
-consola a través de su página web: https://blynk.io
+consola a través de su página web: https://blynk.io/
 
 
 

@@ -3,9 +3,9 @@ import network  # Libreria para conectarse a la red wifi
 from machine import Pin  # Libreria para manejar los pines
 import time  # Libreria para manejar el tiempo
 
-WIFI_SSID = "Familia 2.4GHz"  # Nombre de la red wifi
-WIFI_PASS = "01427077394"  # Contraseña de la red wifi
-BLYNK_AUTH = "x-pr6jh-fBK2H1pEFyDtAIJnvNUouQHk"  # Token de la aplicacion Blynk
+WIFI_SSID = ""  # Nombre de la red wifi
+WIFI_PASS = ""  # Contraseña de la red wifi
+BLYNK_AUTH = ""  # Token de la aplicacion Blynk
 
 print("Connecting to WiFi network '{}'".format(WIFI_SSID))  # Conectando a la red wifi
 wifi = network.WLAN(network.STA_IF)  # Creando objeto wifi
